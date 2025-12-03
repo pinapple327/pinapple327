@@ -1,6 +1,6 @@
-# 🍍 Pineapple — The Guy With *Absolutely No Idea* What He’s Doing  
+# 🍍 Pinapple — The Guy With *Absolutely No Idea* What He’s Doing  
 
-Hi, I’m **Pineapple**.  
+Hi, I’m **Pinapple**.  
 A man with **zero clue**, **no direction**, and **one powerful tool**:  
 ✨ *AI doing 99.9% of the work for me* ✨
 
